@@ -1,2 +1,2 @@
 # task1
-Na􀀁onal Ins􀀁tute of Technology,Tiruchirappali
+Feynn labs internship, task1 creating a report on AI product
